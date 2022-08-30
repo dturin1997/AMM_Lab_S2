@@ -1,0 +1,8 @@
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\bin\Debug\AMM_Lab_S2.exe.config
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\bin\Debug\AMM_Lab_S2.exe
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\bin\Debug\AMM_Lab_S2.pdb
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\obj\Debug\AMM_Lab_S2.csproj.AssemblyReference.cache
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\obj\Debug\AMM_Lab_S2.csproj.SuggestedBindingRedirects.cache
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\obj\Debug\AMM_Lab_S2.csproj.CoreCompileInputs.cache
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\obj\Debug\AMM_Lab_S2.exe
+C:\Users\djtur\source\repos\AMM_Lab_S2\AMM_Lab_S2\obj\Debug\AMM_Lab_S2.pdb
